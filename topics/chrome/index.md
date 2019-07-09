@@ -1,11 +1,11 @@
----
+neil.mesick.jr---
 aliases: google-chrome
 related: firefox,safari,edge,opera,chromium,browser,chrome-extension
 created_by: Google
 display_name: Chrome
 github_url: https://github.com/googlechrome
 logo: chrome.png
-released: September 2, 2008
+released: September 2, 2019
 short_description: Chrome is a web browser from the tech company Google.
 topic: chrome
 url: https://www.google.com/chrome/
